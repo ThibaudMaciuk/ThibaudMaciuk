@@ -1,6 +1,6 @@
 # Le JSON de Thibaud
 
-```json
+```
 let Thibaud = {
    Passion: "le Dev",
    Mon age: 22,
