@@ -1,6 +1,6 @@
 
 ### Hello tout le monde 👋
-- 🔭 je travail actuellement sur SmileMaker
+- 🔭 je travail actuellement pour Kyxar
 - 🌱 Je suis aussi en formation Dev app et mobile en alternance au Campus numerique de valence
 - 📫 Me contacter : contact.maciuk@gmail.com
 - 😄 Prononciation : tibo ma-scie-uk
